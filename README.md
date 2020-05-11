@@ -14,7 +14,7 @@ In the output file, each word is on a separate line and among the more obvious i
 - the proposition if the word together with its head make up a proposition
 - R - if this is the first instance of this proposition
 
-Runnning this script requires:
+Running this script requires:
 - python 3.6
 - spacy together with English models
 
