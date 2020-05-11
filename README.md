@@ -17,3 +17,6 @@ R - if this is the first instance of this proposition
 Runnning this script requires:
 - python 3.6
 - spacy together with English models
+
+Citing depid:
+Sirts, K., Piguet, O., & Johnson, M. (2017). Idea density for predicting Alzheimer’s disease from transcribed speech. In Proceedings of the 21st Conference on Computational Natural Language Learning (CoNLL 2017) (pp. 322-332).
